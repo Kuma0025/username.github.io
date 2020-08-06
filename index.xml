@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>細胞生化学研究室</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>細胞生化学研究室</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>(c) 2020 Ozaki Laboratory.</copyright><lastBuildDate>Fri, 07 Aug 2020 00:46:08 +0900</lastBuildDate>
+    <image>
+      <url>/images/logo_hu8cdcf02f58bca005be803da7aef945e6_38060_300x300_fit_lanczos_2.png</url>
+      <title>細胞生化学研究室</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Sample5</title>
+      <link>/post/sample5/</link>
+      <pubDate>Fri, 07 Aug 2020 00:46:08 +0900</pubDate>
+      <guid>/post/sample5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample4</title>
+      <link>/post/sample4/</link>
+      <pubDate>Fri, 07 Aug 2020 00:46:06 +0900</pubDate>
+      <guid>/post/sample4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample3</title>
+      <link>/post/sample3/</link>
+      <pubDate>Fri, 07 Aug 2020 00:46:04 +0900</pubDate>
+      <guid>/post/sample3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample2</title>
+      <link>/post/sample2/</link>
+      <pubDate>Fri, 07 Aug 2020 00:46:02 +0900</pubDate>
+      <guid>/post/sample2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample1</title>
+      <link>/post/sample1/</link>
+      <pubDate>Fri, 07 Aug 2020 00:45:59 +0900</pubDate>
+      <guid>/post/sample1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HP作成のお知らせ</title>
+      <link>/post/new-homepage/</link>
+      <pubDate>Fri, 07 Aug 2020 00:37:50 +0900</pubDate>
+      <guid>/post/new-homepage/</guid>
+      <description>&lt;p&gt;これはサンプルの記事です。HP作成しました！
+ちゃんと表示できるか確認してみてください。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
